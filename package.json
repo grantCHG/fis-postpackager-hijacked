@@ -1,0 +1,17 @@
+﻿{
+  "name": "fis-postpackager-hijacked",
+  "version": "1.0.2",
+  "description": "全局加入防劫持js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "grant"
+  },
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "fis-postpackager-hijacked@1.0.0",
+  "_shasum": "fe4cb118b45aeef6828ebaa5a70c9a65609fd298",
+  "_from": "fis-postpackager-hijacked@latest"
+}
