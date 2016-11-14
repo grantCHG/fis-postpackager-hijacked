@@ -1,6 +1,6 @@
 ﻿{
   "name": "fis-postpackager-hijacked",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "全局加入防劫持js",
   "main": "index.js",
   "scripts": {
